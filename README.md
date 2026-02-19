@@ -3,9 +3,7 @@ Revista digital dedicada al universo gamer, diseñada con HTML y CSS. Esta revis
 
 Tecnologías utilizadas
 - HTML5
-- CSS3
-- CSS Grid
-- Flexbox
+- CSS
 - Google Fonts
 - Figma
 
@@ -16,5 +14,5 @@ Estructura del proyecto
 - Sidebar con biografía
 - Footer con formulario de suscripción
 
-Web
+Web:
 https://revista-videojuegos.netlify.app/
