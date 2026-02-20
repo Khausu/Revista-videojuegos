@@ -15,4 +15,4 @@ Estructura del proyecto
 - Footer con formulario de suscripción
 
 Web:
-https://revista-videojuegos.netlify.app/
+https://revista-videojuegos.vercel.app
