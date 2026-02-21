@@ -16,3 +16,7 @@ Estructura del proyecto
 
 Web:
 https://revista-videojuegos.vercel.app
+
+Figma:
+<img width="1440" height="3837" alt="Gaming" src="https://github.com/user-attachments/assets/314248ed-ec65-4760-95f4-ed6d972f2562" />
+
